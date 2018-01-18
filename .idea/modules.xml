@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Zadatak Avion Roba.iml" filepath="$PROJECT_DIR$/.idea/modules/Zadatak Avion Roba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Zadatak_Avion_Roba.iml" filepath="$PROJECT_DIR$/.idea/modules/Zadatak_Avion_Roba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Zadatak_Avion_Roba_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Zadatak_Avion_Roba_main.iml" group="Zadatak_Avion_Roba" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Zadatak_Avion_Roba_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Zadatak_Avion_Roba_test.iml" group="Zadatak_Avion_Roba" />
+    </modules>
+  </component>
+</project>
